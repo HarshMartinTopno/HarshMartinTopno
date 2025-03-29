@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshMartinTopno
+- 👋 Hi, I’m Martin
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me [ID](https://www.linkedin.com/in/harsh-martin-topno-924756312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeH4PTzhGSnS5ifzqa9tmeg%3D%3D)
